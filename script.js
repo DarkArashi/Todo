@@ -1,5 +1,6 @@
 // const closeIcon = document.querySelector('.close-menu');
 // const menuIcon = document.querySelector('.menu-icon');
+
 const menu = document.querySelector('.menu');
 
 const openMenu = () =>{
